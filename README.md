@@ -2,6 +2,7 @@
 
 ***How To Configure Script:*** <br>
 If u dont know how to make the basics for the bot inside developer portal go figure that out...
+<br>
 Download nukerbot.py
 <br>
 Change 'YOUR DISCORD BOT TOKEN' top ur discord bot token
