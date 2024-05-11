@@ -5,7 +5,7 @@ If u dont know how to make the basics for the bot inside developer portal go fig
 <br>
 Download nukerbot.py
 <br>
-Change 'YOUR DISCORD BOT TOKEN' top ur discord bot token
+Change 'YOUR DISCORD BOT TOKEN' to ur discord bot token
 <br>
 Edit the script how u want.
 <br>
